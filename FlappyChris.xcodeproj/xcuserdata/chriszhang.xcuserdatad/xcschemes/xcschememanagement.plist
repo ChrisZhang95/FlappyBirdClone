@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FlappyChris.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>BD3AE23D1CE7EFB300E539E9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BD3AE2551CE7EFB300E539E9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BD3AE2601CE7EFB300E539E9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
